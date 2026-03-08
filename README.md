@@ -31,7 +31,8 @@ const stack = {
 ## 🔗 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-lafengxiaoyu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lafengxiaoyu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lafengxiaoyu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaozhenyu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:786424908@qq.com)
 
 ## 📊 GitHub Stats
 
